@@ -1,0 +1,4 @@
+ALPHABETS = [
+    "абвгґджзиіїйклмнопрстуфхцчшщьюя",
+    "abcdefghijklmnopqrstuvwxyz"
+]
